@@ -13,7 +13,7 @@ public class UserConfig {
     /**
      * 语言
      */
-    public String lang = "en_US";
+    public String lang = "zh_CN";
 
     /**
      * 调试模式
